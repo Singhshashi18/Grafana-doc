@@ -1,0 +1,25 @@
+
+services:
+  loki:
+    image: grafana/loki:2.8.2
+    command: -config.file=/etc/loki/local-config.yaml
+    ports:
+      - "3100:3100"
+    volumes:
+      - ./loki-config.yaml:/etc/loki/local-config.yaml
+      - ./loki-data:/loki          
+      - ./loki-data/wal:/wal
+
+  promtail:
+    image: grafana/promtail:2.8.2
+    volumes:
+      - ./promtail-config.yaml:/etc/promtail/promtail-config.yaml
+      - ./logs:/var/log/myapp   # mount node app logs
+    command: -config.file=/etc/promtail/promtail-config.yaml 
+
+  grafana:
+    image: grafana/grafana:9.0.0
+    ports:
+      - "4000:3000"
+    depends_on:
+      - loki

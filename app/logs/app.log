@@ -1,0 +1,46 @@
+{"level":"info","message":"Server started","port":3001,"timestamp":"2025-09-09T16:57:29.820Z"}
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-09T16:57:30.820Z"}
+::1 - - [09/Sep/2025:16:57:30 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-09T16:57:41.733Z"}
+::1 - - [09/Sep/2025:16:57:41 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-09T16:57:45.892Z"}
+::1 - - [09/Sep/2025:16:57:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Server started","port":3001,"timestamp":"2025-09-10T02:43:59.069Z"}
+{"level":"info","message":"Server started","port":3001,"timestamp":"2025-09-10T03:33:06.427Z"}
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T03:33:23.100Z"}
+::1 - - [10/Sep/2025:03:33:23 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+::1 - - [10/Sep/2025:03:33:23 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T03:59:17.985Z"}
+::1 - - [10/Sep/2025:03:59:18 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T03:59:21.896Z"}
+::1 - - [10/Sep/2025:03:59:21 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T05:35:17.375Z"}
+::1 - - [10/Sep/2025:05:35:17 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T05:35:19.217Z"}
+::1 - - [10/Sep/2025:05:35:19 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T06:04:51.642Z"}
+::1 - - [10/Sep/2025:06:04:51 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T06:04:54.041Z"}
+::1 - - [10/Sep/2025:06:04:54 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T06:04:57.915Z"}
+::1 - - [10/Sep/2025:06:04:57 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T06:05:28.588Z"}
+::1 - - [10/Sep/2025:06:05:28 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T06:05:33.475Z"}
+::1 - - [10/Sep/2025:06:05:33 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T06:26:47.446Z"}
+::1 - - [10/Sep/2025:06:26:47 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T06:30:56.852Z"}
+::1 - - [10/Sep/2025:06:30:56 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Server started","port":3001,"timestamp":"2025-09-10T06:33:36.893Z"}
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T06:34:07.498Z"}
+::1 - - [10/Sep/2025:06:34:07 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.5074"
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T06:35:11.566Z"}
+::1 - - [10/Sep/2025:06:35:11 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"info","message":"Server started","port":3001,"timestamp":"2025-09-10T08:08:10.317Z"}
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T08:08:21.979Z"}
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T08:08:56.274Z"}
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T08:08:58.427Z"}
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T08:09:15.670Z"}
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-10T08:09:44.428Z"}
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-10T08:23:30.181Z"}

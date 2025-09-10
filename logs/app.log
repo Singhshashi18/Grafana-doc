@@ -1,0 +1,8 @@
+{"level":"info","message":"Server started","port":3001,"timestamp":"2025-09-09T16:17:23.186Z"}
+{"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-09T16:18:06.060Z"}
+::1 - - [09/Sep/2025:16:18:06 +0000] "GET / HTTP/1.1" 200 33 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+::1 - - [09/Sep/2025:16:18:06 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-09T16:18:50.892Z"}
+::1 - - [09/Sep/2025:16:18:50 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+{"level":"error","message":"Error route triggered","route":"/error","timestamp":"2025-09-09T16:19:20.960Z"}
+::1 - - [09/Sep/2025:16:19:20 +0000] "GET /error HTTP/1.1" 500 22 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
