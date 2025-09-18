@@ -1,4 +1,5 @@
- 
+
+  
 services:
   loki:
     image: grafana/loki:2.8.2
