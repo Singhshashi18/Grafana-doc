@@ -1,4 +1,4 @@
-    
+     
 
 {"level":"info","message":"Server started","port":3001,"timestamp":"2025-09-09T16:17:23.186Z"}
 {"level":"info","message":"Home route visited","method":"GET","route":"/","timestamp":"2025-09-09T16:18:06.060Z"}
